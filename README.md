@@ -1,4 +1,4 @@
-# Microsoft's New Movie Analysis Project
+# Microsoft's New Studio Movie Analysis Project
 ## Introduction
 The main aim of this project is to analyse the movie dataset to gain insights on performance of movies and provide actionable recommendations to microsoft new movie venture to support decison making process.
 ## Business understanding 
@@ -10,7 +10,7 @@ The data preparation involved cleaning data so as address issues such as missing
 ## Data analyis
 Data analysis was done and it enabled us identify the movie that yields the highest profit to the least profit,it enabled us identify the average gross by release year and release month thus being able to see the market trends and finally it enabled exploration of different performance by genre.All which will help Microsoft's new movie studio management make informed business decisions.
 ## Data Visualisation 
-The project included three visualizations a bar graph,line plot and scatter plot this helped to effectively communicate the insights and support data driven decision making and strategy development for Microsoft's new movie studio.
+The project included three visualizations a bar graph,line plot and scatter plot these helped to effectively communicate the insights and support data driven decision making and strategy development for Microsoft's new movie studio.
 ## Github Repository
 The Github repository for this project follow best professional practices 
 -All files and folders are named briefly and descriptively 
